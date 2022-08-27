@@ -8,6 +8,7 @@
 * Digital Art
 * Japanese
 
+
 - 🔭 I’m currently working on expanding my game developer toolkit
 - 🌱 I’m currently learning: 3D modeling :globe_with_meridians:
 - 💬 Ask me about Earthbound :earth_americas:

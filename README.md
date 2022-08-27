@@ -2,7 +2,11 @@
 
 - 😄 Pronouns: He/Him
 
-## I'm a student at UW Madison studying Computer Science, Educational Game Design, Art, and Japanese
+## I'm a student at UW Madision studying 
+* Software Development
+* Educational Game Design
+* Digital Art
+* Japanese
 
 - 🔭 I’m currently working on expanding my game developer toolkit
 - 🌱 I’m currently learning: 3D modeling :globe_with_meridians:

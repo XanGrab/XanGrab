@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋 I'm Xander - aka [XanGrab][website]
 
-<!--
-**XanGrab/XanGrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+## I'm a student at UW Madison studying Computer Science, Educational Game Design, Art, and Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on expanding my game developer toolkit
+- 🌱 I’m currently learning: 3D modeling :globe_with_meridians:
+- 💬 Ask me about Earthbound :earth_americas:
+- 📫 How to reach me: [website]
+- :zap: Fun fact: I love stories of all kinds, ask me about TV :tv:, Movies :movie_camera:, or Games :video_games:
+
+[website]: https://xandergrabowski.com/

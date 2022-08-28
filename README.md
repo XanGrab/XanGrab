@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 
-## I'm a student at UW Madision studying 
+## I'm a student at UW Madision studying:
 * Software Development
 * Educational Game Design
 * Digital Art

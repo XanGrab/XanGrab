@@ -13,6 +13,6 @@
 - 🌱 I’m currently learning: **3D Modeling**
 - 💬 Ask me about ***Earthbound***
 - 📫 How to reach me: [website]
-- :zap: Fun fact: I love stories of all kinds, ask me about TV :tv:, Movies :movie_camera:, or Games :video_game:
+- :zap: Fun fact: I love stories of all kinds, ask me about **TV :tv:, Movies :movie_camera:, or Games :video_game:**
 
 [website]: https://xandergrabowski.com/

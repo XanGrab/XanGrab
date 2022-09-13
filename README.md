@@ -9,7 +9,7 @@
 * Japanese
 
 ### About Me
-- 🔭 I’m currently working on expanding my **Game Developer Toolkit**
+- 🔭 I’m currently working on: Learning Data Logging/Analytics for Game Engines :bar_chart:
 - 🌱 I’m currently learning: **3D Modeling**
 - 💬 Ask me about ***Earthbound***
 - 📫 How to reach me: [website]

@@ -1,15 +1,13 @@
-### Hello there 👋 I'm Xander - aka XanGrab
+## Hello there 👋 I'm Xander - aka XanGrab
 
- 😄 Pronouns: He/Him
+Pronouns: He/Him ♂️
 
-## I'm a student at UW Madision studying:
-* Software Development
+## I'm a UW Madison Graduate studying
 * Educational Game Design
-* Digital Art
-* Japanese
+* UI/UX 📲 🖥️
 
 ### About Me
-* 🔭 I’m currently working on: Learning **Data Logging/Analytics** 📊 for Game Engines like Unity and Phaser
-* 🌱 I’m currently learning: **3D Modeling** && **Data Logging APIs**
+* 🔭 I’m currently working on: Learning **Data Logging/Analytics** 📊 for Game Engines like Unity and Phas
+* 🌱 I’m currently learning: **LLVM Compilers**
 * 💬 Ask me about ***Earthbound*** 🌎
 * ⚡ Fun fact: I love stories of all kinds, ask me about **TV 📺, Movies 🎥, or Games 🕹️**

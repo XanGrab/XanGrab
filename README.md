@@ -7,7 +7,7 @@ Pronouns: He/Him ♂️
 * UI/UX 📲 🖥️
 
 ### About Me
-* 🔭 **Currently Working On:** Fan games in the Earthbound community and a new personal portfolio 🎨
+* 🔭 **Currently Working On:** Fan games in the [Earthbound community](https://twitter.com/mother__squared?lang=en) and a new personal portfolio 🎨
 * 🌱 **Currently Learning:** Computer Language Processing with LLVM 💬
 * ⚡ **Fun Fact:** I love storytelling of all kinds, ask me about the latest **TV shows 📺, Movies 🎥, or Games🕹️**
 

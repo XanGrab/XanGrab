@@ -11,7 +11,7 @@ Pronouns: He/Him ♂️
 * 🌱 **Currently Learning:** Natural Language Processing 💬
 * ⚡ **Fun Fact:** I love storytelling of all kinds!
 * 🎤 **Ask me About:**
-  * 📚 What Video Games Have to Teach Us About Learning & Literacy
-  * 🎥 Star Wars
-  * 📺 Dexter
-  * 🕹️ Dwarf Fortress
+  * 📚 **Reading:** What Video Games Have to Teach Us About Learning & Literacy
+  * 🎥 **(Re)Watching:** Star Wars
+  * 📺 **Watching:** Dexter  
+  * 🕹️ **Playing:** Dwarf Fortress

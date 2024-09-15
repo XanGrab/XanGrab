@@ -9,4 +9,8 @@ Pronouns: He/Him ♂️
 ### About Me
 * 🔭 **Currently Working On:** Fan games in the [Earthbound community](https://twitter.com/mother__squared?lang=en) 🌏
 * 🌱 **Currently Learning:** Natural Language Processing 💬
-* ⚡ **Fun Fact:** I love storytelling of all kinds, ask me about the latest **TV shows 📺, Movies 🎥, or Games🕹️**
+* ⚡ **Fun Fact:** I love storytelling of all kinds!
+* 🎤 **Ask me About:**
+  * 📚 Books
+  * 🎥📺 Movies / TV Shows
+  * 🕹️ Games

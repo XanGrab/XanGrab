@@ -3,7 +3,7 @@
 Pronouns: He/Him ♂️
 
 ## I'm a UW Madison Graduate studying
-* [Design, Informal, and Creative Education](https://ci.education.wisc.edu/research/digital-media/) 🎒
+* [Design, Informal, and Creative Education](https://ci.education.wisc.edu/research/digital-media/) 🎲🧩​​
 * Human-Computer Interactions and User Experience Design 📲 🖥️
 
 ### About Me

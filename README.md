@@ -3,7 +3,7 @@ Pronouns: He/Him ♂️
 
 ## I'm a UW Madison Graduate studying...
 * [Design, Informal, and Creative Education](https://ci.education.wisc.edu/research/digital-media/) 🎲🧩​​
-* Human-Computer Interactions and User Experience Design 📲 🖥️
+* Game-Based learning and UXperience design in games 🧠
 
 ## About Me
 * 🎮 Checkout some of my games and other projects at: https://xangrab.com/ 
